@@ -6,3 +6,5 @@
 2. CSS
 
 ## Notes
+
+-Improved responsiveness
